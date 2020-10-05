@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/RGB To Hex Conversion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/Maximum subarray sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/ Primes in numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/PI approximation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
