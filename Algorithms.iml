@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/ Primes in numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/PI approximation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Leetcode/Subrectangle Queries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/codeWars/Weight for weight" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
